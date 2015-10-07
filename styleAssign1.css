@@ -5,6 +5,10 @@ body {
 h1, h2 {
   text-align: center;
 }
+img#geekInside{
+    position: absolute;
+    right:33px;
+}
 #mainDiv {
   margin: .5em;
   background-color:darkslategrey;
