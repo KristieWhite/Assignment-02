@@ -30,12 +30,12 @@ h1, h2 {
      float: left;
      margin-right: .5em;
 }
-a {
+#navBar ul li a {
     color: white;
 }
-a#navBar:hover {
+#navBar ul li a:hover {
     font-weight: bold;
-    color: bisque;
+    color: orangered;
 }
 
 li.nav {
