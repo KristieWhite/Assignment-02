@@ -69,3 +69,18 @@ h3 {
   margin: 2em 0 0 1.5em;
   padding: .5em;
 }
+img#geekTyping {
+    position: relative;
+    border: 2px solid green;
+    float:right;
+    }
+#clearFloat {
+    content:"";
+    display: block;
+    clear: both;
+}
+.fl {
+    position: relative;
+    float: left;
+    margin: -17em 20em 0 0;
+}
