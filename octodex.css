@@ -3,6 +3,7 @@
     list-style: none;
 }
 .octocat {
+    padding: 1em;
     float: left;
     list-style-type: none;
 }
