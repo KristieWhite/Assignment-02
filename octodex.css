@@ -1,0 +1,29 @@
+ul.octodex {
+    box-sizing: border-box;
+}
+li.octocat {
+    list-style-type: none;
+    box-sizing: border-box;
+    float: left;
+}
+div.image-footer {
+    position: relative;
+    top: 50px;
+}
+span.image-number {
+    color: grey;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 40px;
+}
+div.image-caption {
+    box-sizing: border-box;
+}
+ul.authors {
+    box-sizing: border-box;  
+}
+img {
+    border: 1px solid lightgray;
+    width: 200px;
+    height: 200px;
+}
